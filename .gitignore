@@ -1,0 +1,7 @@
+Directory: .gradle
+Directory: .idea
+Directory: build
+Directory: app/build
+File: local.properties
+Mask: *.iml
+
